@@ -2,4 +2,4 @@
 
 hello, WORLD
 
-Hello! 追記テスト
+こんにちは、世界
